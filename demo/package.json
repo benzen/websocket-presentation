@@ -1,0 +1,19 @@
+{
+  "name": "ws-demo",
+  "version": "1.0.0",
+  "description": "A dead-simple app to demonstrate usage of websocket",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "websocket",
+    "demo"
+  ],
+  "author": "Benjamin Dreux",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "nodejs-websocket": "^1.2.1",
+    "static-now": "^0.3.0"
+  }
+}
