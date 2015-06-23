@@ -8,12 +8,12 @@
 .reveal a {
   color: white;
 }
-.quote {
-  font-style: italic;
+blockquote {
+  font-style: italic !important;
   font-size: 50px !important;
   text-align: right !important; 
 }
-.quote small {
+blockquote small {
   font-size: 12px;
 }
 div.flex-container {
