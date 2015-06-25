@@ -56,6 +56,8 @@ var startPlay = function(conn, playId){
       var win = turn(play, choice);
       conn.sendText(win);
       conn.sendText("Score is "+ play.score);
+
+      //Start next turn
       conn.sendText("choose");
     });
 };
