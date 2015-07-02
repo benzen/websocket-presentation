@@ -1,7 +1,7 @@
 Demo Websocket pour INF-4375
 ======================
 
-Run the Démo
+Run the Demo
 -------
 
 ```
